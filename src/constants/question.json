@@ -1,57 +1,57 @@
 
 [
     {
-      "question": "What is the largest planet in our solar system?",
+      "question": "অনিমেষ কখন প্রথম গাঁজা সেবন করেন?",
       "answerOptions": [
-        {"text": "Saturn", "isCorrect": false},
-        {"text": "Mars", "isCorrect": false},
-        {"text": "Earth", "isCorrect": false},
-        {"text": "Jupiter", "isCorrect": true}
+        {"text": "2024", "isCorrect": false},
+        {"text": "2021", "isCorrect": false},
+        {"text": "2018", "isCorrect": false},
+        {"text": "2000", "isCorrect": true}
       ]
     },
     {
-      "question": "What is the tallest mountain in the world?",
+      "question": "পূর্ণেন্দু শেষ কবে সেক্স করেছিল?",
       "answerOptions": [
-        {"text": "Mount Everest", "isCorrect": true},
-        {"text": "K2", "isCorrect": false},
-        {"text": "Kangchenjunga", "isCorrect": false},
-        {"text": "Lhotse", "isCorrect": false}
+        {"text": "1 দিন আগে", "isCorrect": true},
+        {"text": "কখনো ঘটেনি", "isCorrect": false},
+        {"text": "স্বপ্নে", "isCorrect": false},
+        {"text": "হাতের মধ্যে", "isCorrect": false}
       ]
     },
     {
-      "question": "Which country is home to the Great Wall of China?",
+      "question": "কখন তোমার বাবার মানিব্যাগ থেকে টাকা চুরি করেছিলে ?",
       "answerOptions": [
-        {"text": "China", "isCorrect": true},
-        {"text": "Japan", "isCorrect": false},
-        {"text": "Korea", "isCorrect": false},
-        {"text": "India", "isCorrect": false}
+        {"text": "যদিও মনে আছে কিন্তু খুব মার খেয়েছি", "isCorrect": true},
+        {"text": "never", "isCorrect": false},
+        {"text": "i'm God", "isCorrect": false},
+        {"text": "বাল", "isCorrect": false}
       ]
     },
     {
-      "question": "What is the capital of France?",
+      "question": "দিনে কত বার হ্যান্ডেল মারো ?",
       "answerOptions": [
-        {"text": "London", "isCorrect": false},
-        {"text": "Berlin", "isCorrect": false},
-        {"text": "Paris", "isCorrect": true},
-        {"text": "Rome", "isCorrect": false}
+        {"text": "10", "isCorrect": false},
+        {"text": "1000", "isCorrect": false},
+        {"text": "1000000000", "isCorrect": true},
+        {"text": "0", "isCorrect": false}
       ]
     },
     {
-      "question": "What is the chemical formula for water?",
+      "question": "সুমন দিনে কত রিফার টানে ?",
       "answerOptions": [
-        {"text": "H2O", "isCorrect": true},
-        {"text": "CO2", "isCorrect": false},
+        {"text": "3", "isCorrect": true},
+        {"text": "20", "isCorrect": false},
         {"text": "NaCl", "isCorrect": false},
-        {"text": "NH3", "isCorrect": false}
+        {"text": "100", "isCorrect": false}
       ]
     },
     {
-      "question": "What is the largest ocean on Earth?",
+      "question": "আমার কাছে টাকা নাই এটা কার বাণী ?",
       "answerOptions": [
-        {"text": "Atlantic Ocean", "isCorrect": false},
-        {"text": "Pacific Ocean", "isCorrect": true},
-        {"text": "Indian Ocean", "isCorrect": false},
-        {"text": "Arctic Ocean", "isCorrect": false}
+        {"text": "Boro bal", "isCorrect": false},
+        {"text": "Animesh Karmakar", "isCorrect": true},
+        {"text": "Lokesh", "isCorrect": false},
+        {"text": "Dogla Insan", "isCorrect": false}
       ]
     },
     {
