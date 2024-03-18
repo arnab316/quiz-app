@@ -1,0 +1,9 @@
+version: '3'
+services:
+   web: 
+    image: react-nginx-app
+    container_name: quiz-app
+    ports: 
+      - 3000:80
+  
+  
